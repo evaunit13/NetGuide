@@ -104,7 +104,7 @@ export default function ContributePage() {
             or improve the platform.
           </p>
           <Link
-            href="https://github.com/near-link/NetGuide"
+            href="https://github.com/evaunit13/NetGuide"
             className="text-sm text-blue-600 hover:text-blue-700 inline-flex items-center gap-1 transition-colors"
           >
             View on GitHub <ArrowRight size={14} />
